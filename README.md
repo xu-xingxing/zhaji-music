@@ -1,6 +1,10 @@
 # vue-music
 
 > vue音乐播放器
+#技术栈
+## vue+vue-router+vuex+better-scroll
+效果图：
+![Image text](https://github.com/xu-xingxing/zhaji-music/blob/master/image/456.gif)
 
 ## Build Setup
 
